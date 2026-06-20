@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Death of Enkidu",
+  "universe": "GIL · The Death of Enkidu (polemos)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Death of Enkidu:GIL:5cdeb6⟧",
+  "carbon": "the-death-of-enkidu.carbon.tiff (TIFF)",
+  "silicon": "the-death-of-enkidu.silicon.png (PNG)",
+  "seal_sha256": "4b41c673fa68608f7d11b31b1564bcb31d825074bbfb36f18418cf4edeee9b3a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

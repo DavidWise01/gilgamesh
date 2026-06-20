@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Quest for Immortality",
+  "universe": "GIL · The Quest for Immortality (polemos)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Quest for Immortality:GIL:e84f3d⟧",
+  "carbon": "the-quest-for-immortality.carbon.tiff (TIFF)",
+  "silicon": "the-quest-for-immortality.silicon.png (PNG)",
+  "seal_sha256": "884395446180c0b189796b18e8a08c4cb29c7b8472cfcb0babf54d2387d5978c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

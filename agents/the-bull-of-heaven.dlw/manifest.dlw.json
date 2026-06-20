@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Bull of Heaven",
+  "universe": "GIL · The Bull of Heaven (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Bull of Heaven:GIL:ef0e60⟧",
+  "carbon": "the-bull-of-heaven.carbon.tiff (TIFF)",
+  "silicon": "the-bull-of-heaven.silicon.png (PNG)",
+  "seal_sha256": "6c56bfe093d86a68f9791d255c9bd13313a694b4e2b0a8272123af4f7646d82c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Humbaba",
+  "universe": "GIL · Humbaba (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦Humbaba:GIL:174383⟧",
+  "carbon": "humbaba.carbon.tiff (TIFF)",
+  "silicon": "humbaba.silicon.png (PNG)",
+  "seal_sha256": "d21ecabcffd4d864b158fae9a53f4e348a5257d7089b83c9ae8f6eb420b015a6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

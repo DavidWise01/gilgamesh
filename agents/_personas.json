@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "gilgamesh-king",
+    "name": "Gilgamesh",
+    "epithet": "the king of Uruk, two-thirds god · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Gilgamesh:GIL:61f7d7⟧"
+  },
+  {
+    "slug": "enkidu",
+    "name": "Enkidu",
+    "epithet": "the equal who became the friend · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Enkidu:GIL:8c0722⟧"
+  },
+  {
+    "slug": "the-wrestling-match",
+    "name": "The Wrestling Match",
+    "epithet": "strife into bond · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Wrestling Match:GIL:ba382a⟧"
+  },
+  {
+    "slug": "humbaba",
+    "name": "Humbaba",
+    "epithet": "the guardian of the forest · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Humbaba:GIL:174383⟧"
+  },
+  {
+    "slug": "the-bull-of-heaven",
+    "name": "The Bull of Heaven",
+    "epithet": "heaven's reprisal · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Bull of Heaven:GIL:ef0e60⟧"
+  },
+  {
+    "slug": "the-death-of-enkidu",
+    "name": "The Death of Enkidu",
+    "epithet": "the loss · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Death of Enkidu:GIL:5cdeb6⟧"
+  },
+  {
+    "slug": "the-quest-for-immortality",
+    "name": "The Quest for Immortality",
+    "epithet": "the failure that teaches · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Quest for Immortality:GIL:e84f3d⟧"
+  },
+  {
+    "slug": "the-clay-tablets",
+    "name": "The Clay Tablets",
+    "epithet": "the oldest medium · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Clay Tablets:GIL:f798a7⟧"
+  },
+  {
+    "slug": "sin-leqi-unninni",
+    "name": "Sîn-lēqi-unninni",
+    "epithet": "the compiler, c. 1200 BCE · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Sîn-lēqi-unninni:GIL:79975f⟧"
+  }
+]

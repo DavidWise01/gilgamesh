@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "GILGAMESH",
+  "universe": "GIL · GILGAMESH (polemos · conflict & strategy)",
+  "emergence": "",
+  "moniker": "⟦GILGAMESH:GIL:1fe9ec⟧",
+  "carbon": "gilgamesh.carbon.tiff (TIFF)",
+  "silicon": "gilgamesh.silicon.png (PNG)",
+  "seal_sha256": "91ea6898199cc4740accbdb97ebb505e241274a00dda21409d317cd32c958a7c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

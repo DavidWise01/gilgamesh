@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Wrestling Match",
+  "universe": "GIL · The Wrestling Match (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Wrestling Match:GIL:ba382a⟧",
+  "carbon": "the-wrestling-match.carbon.tiff (TIFF)",
+  "silicon": "the-wrestling-match.silicon.png (PNG)",
+  "seal_sha256": "0ff3109aa5bd2d6590ca2fcf633a2f3528bc8ac04a655fceec9a1f2bf2edc0a5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
