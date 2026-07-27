@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 881
 slug  : gilgamesh
-seal  : 91ea6898199cc4740accbdb97ebb505e241274a00dda21409d317cd32c958a7c
-prev  : 913477189bfce54d715084b9b2b84dac870d4580331ff6dcef934873c8701b54
-link  : 98e1a0ed0aab85b1e2257b03d2bdc265bea270d4d2af79a95ee7c77c960a8f2f
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 8e4c39cbc533468d1f0b1866896a93d804b0829063594ef5422d308b715c032b
+prev  : 7d1b2924e17b955e793c68490ca106590ee3936d2c12d761fbb4658cd22583d6
+link  : 9a188ad89db2606626271d972cdfb428ffe40d5818fde5dce0e6ee4b5f080cac
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
